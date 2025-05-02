@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # google_apps_reviews
+=======
+# google_apps_reviewsa# google_apps_reviews
+>>>>>>> 774d459 (first commit)
 
 # Análise de Sentimentos em Avaliações de Aplicativo 📱🧠
 
