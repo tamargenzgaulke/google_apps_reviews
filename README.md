@@ -21,49 +21,6 @@ Este projeto utiliza técnicas de **Processamento de Linguagem Natural (PLN)** p
 ├── app.py # Aplicativo em Streamlit
 └── README.md # Este arquivo
 
-bash
-Copiar
-Editar
-
-## 🛠️ Instalação e Execução
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
-   cd seu-repo
-Instale as dependências:
-
-bash
-Copiar
-Editar
-pip install -r requirements.txt
-Execute o app Streamlit:
-
-bash
-Copiar
-Editar
-streamlit run app.py
-📊 Tecnologias Utilizadas
-Python
-
-NLTK
-
-spaCy
-
-TextBlob
-
-WordCloud
-
-Plotly
-
-Pandas
-
-Matplotlib
-
-Seaborn
-
-Streamlit
-
 📈 Principais Visualizações
 Nuvens de palavras por sentimento
 
@@ -74,9 +31,6 @@ Evolução temporal dos sentimentos
 Boxplot de polaridade vs. score
 
 Correlação entre likes e polaridade
-
-💡 Resultado Esperado
-Um sistema que ajuda a compreender o sentimento geral dos usuários em relação ao aplicativo, com insights visuais e interativos que facilitam a tomada de decisão para melhorias.
 
 👩‍💻 Autora
 Desenvolvido por Tamar ✨
