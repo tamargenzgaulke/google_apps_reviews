@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# google_apps_reviews
-=======
-# google_apps_reviewsa# google_apps_reviews
->>>>>>> 774d459 (first commit)
 
 # Análise de Sentimentos em Avaliações de Aplicativo 📱🧠
 
@@ -35,7 +30,7 @@ Editar
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repo.git
-   cd seu-repo
+   cd seu-repo```
 Instale as dependências:
 
 bash
